@@ -4,7 +4,7 @@
 		"name": "Jira REST API v3(beta) Projects",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
 		"_exporter_id": "18934513",
-		"_collection_link": "https://blue-star-687451.postman.co/workspace/28905d3f-ad68-4d15-bae4-f8059aa7a72c/collection/18934513-543f3d04-1845-406f-a007-8c489b039450?action=share&source=collection_link&creator=18934513"
+		"_collection_link": "https://blue-star-687451.postman.co/workspace/workspace1~28905d3f-ad68-4d15-bae4-f8059aa7a72c/collection/18934513-543f3d04-1845-406f-a007-8c489b039450?action=share&source=collection_link&creator=18934513"
 	},
 	"item": [
 		{
@@ -18,7 +18,7 @@
 							"script": {
 								"exec": [
 									"\r",
-									"let responseBody=pm.response.json();\r",
+									"let responseBody1=pm.response.json();\r",
 									"// let k=parseInt(pm.globals.get(\"projectscount\"));\r",
 									"// console.log(\"project count from globals var\")\r",
 									"// console.log(k);\r",
@@ -198,7 +198,7 @@
 							"script": {
 								"exec": [
 									"\r",
-									"let responseBody=pm.response.json();\r",
+									"let responseBody2=pm.response.json();\r",
 									"let k=parseInt(pm.globals.get(\"projectscount\"));\r",
 									"console.log(\"project count from globals var\")\r",
 									"console.log(k);\r",
@@ -412,7 +412,7 @@
 							"script": {
 								"exec": [
 									"\r",
-									"let responseBody=pm.response.json();\r",
+									"let responseBody3=pm.response.json();\r",
 									"let k=parseInt(pm.globals.get(\"projectscount\"));\r",
 									"console.log(\"project count from globals var\")\r",
 									"console.log(k);\r",
