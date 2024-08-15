@@ -1,0 +1,56 @@
+{
+	"id": "a8ab9775-509b-415c-8bc7-159db9015fb1",
+	"values": [
+		{
+			"key": "username",
+			"value": "shammumax1999@gmail.com",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "baseurl",
+			"value": "https://xyzacademy.atlassian.net",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "projectscount",
+			"value": "2",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "projectKey",
+			"value": "TEAM",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "projectname",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "accountId",
+			"value": "611a583947d1df00761ea478",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "ticketkey",
+			"value": "TEAMBTMN-4",
+			"enabled": true
+		},
+		{
+			"key": "ticketname",
+			"value": "null",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"name": "Globals",
+	"_postman_variable_scope": "globals",
+	"_postman_exported_at": "2024-08-15T06:17:28.985Z",
+	"_postman_exported_using": "Postman/11.7.0"
+}
