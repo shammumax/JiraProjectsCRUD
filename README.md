@@ -32,6 +32,9 @@ Jenkins will do execution of this collection by picking it from github.
 * Jenkins
 * Github
 
+## Project Structural diagram
+![postmanAutomation  MConverter eu](https://github.com/user-attachments/assets/3549daa3-6270-4271-a7af-6a7a22491b87)
+
 ## Practical Demo
 Initial projects as follows,
 
